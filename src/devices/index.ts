@@ -72,6 +72,7 @@ import enbrighten from './enbrighten';
 import enocean from './enocean';
 import envilar from './envilar';
 import essentialb from './essentialb';
+import essentials from './essentials';
 import eucontrols from './eucontrols';
 import eurotronic from './eurotronic';
 import evanell from './evanell';
@@ -372,6 +373,7 @@ export default [
     ...enocean,
     ...envilar,
     ...essentialb,
+    ...essentials,
     ...eucontrols,
     ...eurotronic,
     ...evanell,
